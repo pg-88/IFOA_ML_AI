@@ -27,7 +27,7 @@ Raccolta di materiale per il corso
   - Notebook [![Open In collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pg-88/IFOA_ML_AI/blob/main/python/esempio_PCA.ipynb)
   - [Slide](https://docs.google.com/presentation/d/183F_S2As9wL3AOvPc3edWWoNNWjSpo-5/edit?usp=sharing&ouid=108017797520463246213&rtpof=true&sd=true)
 - DBSCAN
-  - slide
+  - [slide](https://docs.google.com/presentation/d/1ZLBQ79YEHP1oBqUE0IrmYSE_7UuwGg_F/edit?usp=sharing&ouid=108017797520463246213&rtpof=true&sd=true)
   - Notebook
     - esempi [![Open In collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pg-88/IFOA_ML_AI/blob/main/python/00-DBSCAN.ipynb)
     - parametri [![Open In collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pg-88/IFOA_ML_AI/blob/main/python/DBSCAN-parametri.ipynb)
